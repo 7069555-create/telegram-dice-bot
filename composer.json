@@ -1,0 +1,7 @@
+{
+    "name": "telegram-dice-bot",
+    "description": "Telegram Dice Game Bot",
+    "require": {
+        "php": ">=7.4"
+    }
+}
